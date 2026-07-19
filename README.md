@@ -1,4 +1,4 @@
-# shottopath-app
+ shottopath-app
 
 url- ttkjtmybpkhecpfcxkip.supabase.co
 

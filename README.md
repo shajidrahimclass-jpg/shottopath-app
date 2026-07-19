@@ -1,1 +1,7 @@
 # shottopath-app
+
+url- ttkjtmybpkhecpfcxkip.supabase.co
+
+anon-key- eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR0a2p0bXlicGtoZWNwZmN4a2lwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkyNzkwODgsImV4cCI6MjA5NDg1NTA4OH0.OUfrFx6EGniNzp7MA3feopVdS5YawLz548y-LTELYSY
+
+app_name- shottopath
